@@ -8,4 +8,8 @@ like this
 
 and use stylus/stylish/xstyle load FixMargin.css
 
+<img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/stylus.jpg>
+
+Result
+
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/result.jpg>
