@@ -1,0 +1,7 @@
+.browserContainer>.browserStack>browser{
+     overflow-y: scroll;
+     overflow-x: hidden;
+     margin-top: -12.5px;
+     margin-right: -8.5px;
+     margin-bottom: -10px;
+}
