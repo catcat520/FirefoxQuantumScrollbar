@@ -1,0 +1,9 @@
+@-moz-document url-prefix("http://"),
+url-prefix("https://"),
+url-prefix("file://"),
+url-prefix("ftp://") {
+html{
+     margin-top: 10px;
+     margin-bottom: 8px;
+}
+}
