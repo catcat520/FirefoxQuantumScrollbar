@@ -4,6 +4,6 @@ url-prefix("file://"),
 url-prefix("ftp://") {
 html{
      margin-top: 10px;
-     margin-bottom: 8px;
+     padding-bottom: 8px;
 }
 }
