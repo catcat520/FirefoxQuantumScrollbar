@@ -1,5 +1,9 @@
 # FirefoxQuantumScrollbar
 
+three ways to tweaks Firefox Quantum Scrollbar after version 57
+
+1.
+
 put userChrome.css in a folder called "chrome" in your profile folder.
 
 like this
