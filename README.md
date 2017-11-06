@@ -8,7 +8,7 @@ three ways to tweaks Firefox Quantum Scrollbar after version 57<br>
 
     Scroll Height/按钮高度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollHeight
     Scroll Width/滚动条宽度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollWidth
-    value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150
+    Value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150
     
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/%E6%B3%A8%E5%86%8C%E8%A1%A8%E8%B0%83%E6%95%B4%E6%BB%9A%E5%8A%A8%E6%9D%A1.png>
 
