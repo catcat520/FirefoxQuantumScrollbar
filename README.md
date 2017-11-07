@@ -12,6 +12,8 @@ i recommend to use first way or second way/我建议使用第一种或者第二�
     Scroll Width/滚动条宽度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollWidth
     Value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150
     
+you have to reboot or logout PC to make regedit work
+
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/%E6%B3%A8%E5%86%8C%E8%A1%A8%E8%B0%83%E6%95%B4%E6%BB%9A%E5%8A%A8%E6%9D%A1.png>
 <br>
 2.use userChrome.css and stylus/xstyle/stylish
