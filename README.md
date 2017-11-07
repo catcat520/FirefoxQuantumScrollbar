@@ -3,7 +3,7 @@
 three ways to tweaks Firefox Quantum Scrollbar after version 57<br>
 (火狐 57 之后的版本，有三种方法可以调整 滚动条)
 
-i recommend to use first way or second way(我建议使用第一种或者第二种方法)
+i recommend to use the first way or the second way(我建议使用第一种或者第二种方法)
 
 1.use windows origin regedit(原生接口注册表接口)
 
@@ -31,7 +31,8 @@ and use stylus/xstyle/stylish load FixMargin.css(然后再用 FixMargin.css 进�
 <br>
 3.only use stylus/xstyle/stylish(只使用 stylus/xstyle/stylish)<br><br>
 install styles https://userstyles.org/styles/149652/<br>
-(安装样式 https://userstyles.org/styles/149652/)<br><br>
+(安装样式 https://userstyles.org/styles/149652/)<br>
+i don't recommend this way<br><br>
 Result(效果演示)
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/result.jpg>
