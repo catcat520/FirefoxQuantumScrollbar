@@ -20,7 +20,7 @@ you have to reboot or logout PC to make regedit work(请重启或注销电脑使
 (使用 userChrome.css 和 stylus/xstyle/stylish)
 <br>
 put userChrome.css in a folder called "chrome" in your profile folder.<br>
-(把 userChrome.css 放到配置文件目录 chrome)
+(把 userChrome.css 放到配置文件目录 chrome)<br>
 like this(像这样)
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/userChrome.css.jpg>
