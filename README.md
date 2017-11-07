@@ -11,7 +11,7 @@ three ways to tweaks Firefox Quantum Scrollbar after version 57<br>
     Value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150
     
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/%E6%B3%A8%E5%86%8C%E8%A1%A8%E8%B0%83%E6%95%B4%E6%BB%9A%E5%8A%A8%E6%9D%A1.png>
-
+<br>
 2.use userChrome.css and stylus/xstyle/stylish
 
 put userChrome.css in a folder called "chrome" in your profile folder.
@@ -27,3 +27,11 @@ and use stylus/xstyle/stylish load FixMargin.css
 Result
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/result.jpg>
+
+<br>
+3.only use stylus/xstyle/stylish
+
+install styles https://userstyles.org/styles/149652/012-scrollbar-firefoxquantum-afterver57-catcat520
+
+
+
