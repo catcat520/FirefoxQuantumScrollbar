@@ -16,10 +16,10 @@ you have to reboot or logout PC to make regedit work(请重启或注销电脑使
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/%E6%B3%A8%E5%86%8C%E8%A1%A8%E8%B0%83%E6%95%B4%E6%BB%9A%E5%8A%A8%E6%9D%A1.png>
 <br>
-2.use userChrome.css and stylus/xstyle/stylish
+2.use userChrome.css and stylus/xstyle/stylish<br>
 (使用 userChrome.css 和 stylus/xstyle/stylish)
 <br>
-put userChrome.css in a folder called "chrome" in your profile folder.
+put userChrome.css in a folder called "chrome" in your profile folder.<br>
 (把 userChrome.css 放到配置文件目录 chrome)
 like this(像这样)
 
@@ -30,10 +30,9 @@ and use stylus/xstyle/stylish load FixMargin.css(然后再用 FixMargin.css 进�
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/stylus.jpg>
 
 <br>
-3.only use stylus/xstyle/stylish(只使用 stylus/xstyle/stylish)
-<br>
+3.only use stylus/xstyle/stylish(只使用 stylus/xstyle/stylish)<br>
 install styles https://userstyles.org/styles/149652/<br>
-(安装样式 https://userstyles.org/styles/149652/)
+(安装样式 https://userstyles.org/styles/149652/)<br>
 Result(效果演示)
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/result.jpg>
