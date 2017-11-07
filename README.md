@@ -3,7 +3,7 @@
 three ways to tweaks Firefox Quantum Scrollbar after version 57<br>
 火狐 57 之后的版本，有三种方法可以调整 滚动条
 
-i recommend to use first way or second way
+i recommend to use first way or second way/我建议使用第一种或者第二种方法
 
 1.use windows origin regedit/原生接口注册表接口
 
