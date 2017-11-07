@@ -24,14 +24,15 @@ and use stylus/xstyle/stylish load FixMargin.css
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/stylus.jpg>
 
-Result
-
-<img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/result.jpg>
-
 <br>
 3.only use stylus/xstyle/stylish
 
-install styles https://userstyles.org/styles/149652/012-scrollbar-firefoxquantum-afterver57-catcat520
+install styles https://userstyles.org/styles/149652/
 
+i recommend to use first way or second way
+
+Result
+
+<img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/result.jpg>
 
 
