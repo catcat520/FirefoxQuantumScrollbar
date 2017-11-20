@@ -8,9 +8,9 @@ i recommend to use the first way or the second way(我建议使用第一种或�
 1.use windows origin regedit(原生接口注册表接口)
 
 
-````Scroll Height/按钮高度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollHeight
+Scroll Height/按钮高度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollHeight
 Scroll Width/滚动条宽度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollWidth
-Value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150````
+Value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150
      
 <br>you have to reboot or logout PC to make regedit work(请重启或注销电脑使注册表生效)
 
