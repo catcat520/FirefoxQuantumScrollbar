@@ -10,8 +10,8 @@ i recommend to use the first way or the second way(我建议使用第一种或�
 
     Scroll Height/按钮高度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollHeight
     Scroll Width/滚动条宽度 : HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics\ScrollWidth
-    Value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150
-    
+    Value Convert/转换数值 : ?px=-15*?px，example/例如 10px=15*10=-150 ， The system default is -260
+     
 you have to reboot or logout PC to make regedit work(请重启或注销电脑使注册表生效)
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/%E6%B3%A8%E5%86%8C%E8%A1%A8%E8%B0%83%E6%95%B4%E6%BB%9A%E5%8A%A8%E6%9D%A1.png>
