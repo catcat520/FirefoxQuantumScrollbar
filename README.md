@@ -34,6 +34,7 @@ and use stylus/xstyle/stylish load FixMargin.css(然后再用 FixMargin.css 进�
 3.only use stylus/xstyle/stylish(只使用 stylus/xstyle/stylish)<br><br>
 install styles https://userstyles.org/styles/149652/<br>
 (安装样式 https://userstyles.org/styles/149652/)<br><br>
+thie way can use on Microsoft Edge too(这种方法也可用在 Edge 上)<br><br>
 i don't recommend this way(我不推荐使用这种方法)<br><br>
 Result(效果演示)
 
