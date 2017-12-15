@@ -1,0 +1,41 @@
+/* 名称：012.ScrollBar.FirefoxQuantum.MsEdge.catcat520 */
+/* 别名：012.ScrollBar.FirefoxQuantum.MsEdge.catcat520 */
+/* 感谢： */ 
+/* 功能：修改滚动条 *//* AGENT_SHEET */
+/* 注释： */
+/* 适用：Win/*nix 系统 Microsoft Edge 和 Firefox Quantum 57 及之后的版本 内核浏览器 *//* i really want this to be global */
+/* 网址：https://userstyles.org/styles/149652/ */
+/* 帮助：http://bbs.kafan.cn/thread-2105629-1-1.html *//* 反馈问题需附上网址 url，对比截图，浏览器名称，字体名称 */
+
+@-moz-document url-prefix("http"), url-prefix("file"), url-prefix("ftp") {
+     @supports(-moz-animation: none) or (-ms-ime-align: auto){
+         html,:root {
+             overflow: hidden;
+        }
+         body{
+             overflow: auto;
+             margin-left: 2px;
+             padding-right: calc(9px - /*[[ScrollbarWidth]]*/);
+             margin-top: -13px;
+             min-width: auto;
+             -webkit-box-sizing: content-box;
+             -moz-box-sizing: content-box;
+             box-sizing: content-box;             
+        }
+         body > * {
+             margin-top: 13px;
+        }
+         html,body {
+             width: 100%;
+             height: 102%;
+        }
+    }
+}
+@-moz-document domain("userstyles.org") {
+     @supports(-moz-animation: none) or (-ms-ime-align: auto){
+         html,:root {
+             overflow: auto;
+        }
+    }
+}
+ 
