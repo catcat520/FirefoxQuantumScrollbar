@@ -15,7 +15,9 @@ i recommend to use the first way or the second way or the last way(我建议使�
 you have to reboot or logout PC to make regedit work(请重启或注销电脑使注册表生效)
 
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/%E6%B3%A8%E5%86%8C%E8%A1%A8%E8%B0%83%E6%95%B4%E6%BB%9A%E5%8A%A8%E6%9D%A1.png>
+
 <br>
+
 2.use userChrome.css and stylus/xstyle/stylish<br>
 (使用 userChrome.css 和 stylus/xstyle/stylish)<br><br>
 put userChrome.css in a folder called "chrome" in your profile folder.<br>
@@ -31,13 +33,20 @@ and use stylus/xstyle/stylish load FixMargin.css(然后再用 FixMargin.css 进�
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/stylus.jpg>
 
 <br>
+
 3.only use stylus/xstyle/stylish(只使用 stylus/xstyle/stylish)<br><br>
 install styles https://userstyles.org/styles/149652/<br>
 (安装样式 https://userstyles.org/styles/149652/)<br><br>
 thie way can use on Microsoft Edge too(这种方法也可用在 Edge 上)<br><br>
 i don't recommend this way(我不推荐使用这种方法)<br><br>
 Result(效果演示)
-
 <img src=https://raw.githubusercontent.com/catcat520/FirefoxQuantumScrollbar/master/img/result.jpg>
+
+<br>
+
+4. use userChrome.js scrollbar https://github.com/Aris-t2/Scrollbars
+
+<br>
+
 
 
