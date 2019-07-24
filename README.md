@@ -44,7 +44,7 @@ Result(效果演示)
 
 <br>
 
-4. use userChrome.js scrollbar https://github.com/Aris-t2/Scrollbars
+4. use userChrome.js scrollbar https://github.com/Aris-t2/CustomJSforFx
 
 <br>
 
